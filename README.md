@@ -25,4 +25,7 @@ npm run build
 ```
 npm run lint
 ```
+<<<<<<< HEAD
 ![img](src/assets/img.png)
+=======
+>>>>>>> dc7f6b0e464c88c9bfd2c115948a8d5f9341f79f
