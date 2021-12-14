@@ -26,4 +26,4 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-[!img] (src/assets/img.png)
+![img](src/assets/img.png)
