@@ -3,29 +3,27 @@
 - Maria Alice (180463)
 
 ## Project setup
-
 ```
-npm install
+yarn install
 ```
 
 ### Compiles and hot-reloads for development
-
 ```
-npm run serve
+yarn serve
 ```
 
 ### Compiles and minifies for production
-
 ```
-npm run build
+yarn build
 ```
 
 ### Lints and fixes files
+```
+yarn lint
+```
 
-```
-npm run lint
-```
-<<<<<<< HEAD
-![img](src/assets/img.png)
-=======
->>>>>>> dc7f6b0e464c88c9bfd2c115948a8d5f9341f79f
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+[!img] (src/assets/img.png)
