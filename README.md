@@ -1,6 +1,4 @@
-# Curso FACENS 6º Semestre
-
-- Maria Alice (180463)
+#Landing page in Vue
 
 ## Project setup
 ```
